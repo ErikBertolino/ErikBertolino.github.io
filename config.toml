@@ -2,6 +2,7 @@ baseurl = "https://example.com/"
 title = "E"
 theme = "hugo-theme-console"
 languageCode = "en-us"
+publishDir = "docs"
 
 [params]
   title = "E"

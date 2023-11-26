@@ -9,6 +9,20 @@
     <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Conformal Prediction with BERT</title>
+      <link>https://example.org/posts/conformal/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/conformal/</guid>
+      <description>Conformal prediction is a new paradigm on how to monitor and gauge uncertainty to any machine learning model.</description>
+    </item>
+    <item>
+      <title>Shapes</title>
+      <link>https://example.org/posts/shapes/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/shapes/</guid>
+      <description>I like shapes</description>
+    </item>
+    <item>
       <title>Test Page</title>
       <link>https://example.org/posts/test/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>

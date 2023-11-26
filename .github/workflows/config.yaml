@@ -41,9 +41,9 @@ jobs:
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
         with:
-          submodules: recursive
+          submodules: true
           fetch-depth: 0
       - name: Setup Pages
         id: pages

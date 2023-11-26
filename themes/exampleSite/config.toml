@@ -1,4 +1,5 @@
 baseURL = "https://erikbertolino.github.io/"
+baseurl = "https://erikbertolino.github.io/"
 title = "console-demo"
 theme = "hugo-theme-console"
 languageCode = "en-us"
